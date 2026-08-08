@@ -1,0 +1,3144 @@
+[
+  {
+    "id": "prop-001",
+    "title": "Spacious 3 Bedroom Residence",
+    "description": "A modern 3-bedroom villa located in Gulshan, offering 1614 sqft of living space with 3 premium amenities nearby.",
+    "type": "Villa",
+    "price": 64000,
+    "priceType": "rent",
+    "location": {
+      "area": "Gulshan",
+      "city": "Dhaka",
+      "lat": 23.78455,
+      "lng": 90.412613
+    },
+    "size": 1614,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Playground",
+      "Rooftop Access",
+      "Parking"
+    ],
+    "rating": 4.2,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 60285
+      },
+      {
+        "month": "Feb",
+        "price": 60597
+      },
+      {
+        "month": "Mar",
+        "price": 61018
+      },
+      {
+        "month": "Apr",
+        "price": 60816
+      },
+      {
+        "month": "May",
+        "price": 62772
+      },
+      {
+        "month": "Jun",
+        "price": 64000
+      }
+    ],
+    "score": {
+      "overall": 70,
+      "price": 63,
+      "location": 96,
+      "size": 79,
+      "amenities": 30
+    }
+  },
+  {
+    "id": "prop-002",
+    "title": "Charming 3 Bedroom Apartment",
+    "description": "A elegant 3-bedroom apartment located in Gulshan, offering 1336 sqft of living space with 6 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 57000,
+    "priceType": "rent",
+    "location": {
+      "area": "Gulshan",
+      "city": "Dhaka",
+      "lat": 23.79777,
+      "lng": 90.399844
+    },
+    "size": 1336,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Elevator",
+      "Security",
+      "Community Hall",
+      "Swimming Pool",
+      "Generator",
+      "Parking"
+    ],
+    "rating": 4.7,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 53623
+      },
+      {
+        "month": "Feb",
+        "price": 54408
+      },
+      {
+        "month": "Mar",
+        "price": 55620
+      },
+      {
+        "month": "Apr",
+        "price": 54661
+      },
+      {
+        "month": "May",
+        "price": 54315
+      },
+      {
+        "month": "Jun",
+        "price": 57000
+      }
+    ],
+    "score": {
+      "overall": 73,
+      "price": 59,
+      "location": 96,
+      "size": 72,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-003",
+    "title": "Cozy 1 Bedroom Villa",
+    "description": "A elegant 1-bedroom apartment located in Gulshan, offering 1838 sqft of living space with 5 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 22380000,
+    "priceType": "sale",
+    "location": {
+      "area": "Gulshan",
+      "city": "Dhaka",
+      "lat": 23.799182,
+      "lng": 90.401053
+    },
+    "size": 1838,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Gym",
+      "Swimming Pool",
+      "Elevator",
+      "Community Hall",
+      "Security"
+    ],
+    "rating": 5.0,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 20729768
+      },
+      {
+        "month": "Feb",
+        "price": 21166686
+      },
+      {
+        "month": "Mar",
+        "price": 21813776
+      },
+      {
+        "month": "Apr",
+        "price": 22393149
+      },
+      {
+        "month": "May",
+        "price": 22253033
+      },
+      {
+        "month": "Jun",
+        "price": 22380000
+      }
+    ],
+    "score": {
+      "overall": 70,
+      "price": 49,
+      "location": 95,
+      "size": 84,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-004",
+    "title": "Charming 1 Bedroom House",
+    "description": "A cozy 1-bedroom house located in Gulshan, offering 1988 sqft of living space with 6 premium amenities nearby.",
+    "type": "House",
+    "price": 84000,
+    "priceType": "rent",
+    "location": {
+      "area": "Gulshan",
+      "city": "Dhaka",
+      "lat": 23.792485,
+      "lng": 90.415494
+    },
+    "size": 1988,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Generator",
+      "Swimming Pool",
+      "Playground",
+      "Elevator",
+      "Security",
+      "Community Hall"
+    ],
+    "rating": 4.1,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 70924
+      },
+      {
+        "month": "Feb",
+        "price": 69972
+      },
+      {
+        "month": "Mar",
+        "price": 71207
+      },
+      {
+        "month": "Apr",
+        "price": 73167
+      },
+      {
+        "month": "May",
+        "price": 73557
+      },
+      {
+        "month": "Jun",
+        "price": 84000
+      }
+    ],
+    "score": {
+      "overall": 75,
+      "price": 59,
+      "location": 93,
+      "size": 88,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-005",
+    "title": "Cozy 4 Bedroom Residence",
+    "description": "A elegant 4-bedroom house located in Gulshan, offering 2966 sqft of living space with 5 premium amenities nearby.",
+    "type": "House",
+    "price": 193000,
+    "priceType": "rent",
+    "location": {
+      "area": "Gulshan",
+      "city": "Dhaka",
+      "lat": 23.78273,
+      "lng": 90.412214
+    },
+    "size": 2966,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Security",
+      "Elevator",
+      "Swimming Pool",
+      "Gym",
+      "Community Hall"
+    ],
+    "rating": 4.7,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 172446
+      },
+      {
+        "month": "Feb",
+        "price": 172866
+      },
+      {
+        "month": "Mar",
+        "price": 171084
+      },
+      {
+        "month": "Apr",
+        "price": 177450
+      },
+      {
+        "month": "May",
+        "price": 183722
+      },
+      {
+        "month": "Jun",
+        "price": 193000
+      }
+    ],
+    "score": {
+      "overall": 69,
+      "price": 40,
+      "location": 92,
+      "size": 99,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-006",
+    "title": "Cozy 1 Bedroom Flat",
+    "description": "A premium 1-bedroom villa located in Gulshan, offering 2186 sqft of living space with 3 premium amenities nearby.",
+    "type": "Villa",
+    "price": 144000,
+    "priceType": "rent",
+    "location": {
+      "area": "Gulshan",
+      "city": "Dhaka",
+      "lat": 23.799133,
+      "lng": 90.40395
+    },
+    "size": 2186,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Gym",
+      "Elevator",
+      "Community Hall"
+    ],
+    "rating": 4.9,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 126233
+      },
+      {
+        "month": "Feb",
+        "price": 128302
+      },
+      {
+        "month": "Mar",
+        "price": 133160
+      },
+      {
+        "month": "Apr",
+        "price": 137919
+      },
+      {
+        "month": "May",
+        "price": 141410
+      },
+      {
+        "month": "Jun",
+        "price": 144000
+      }
+    ],
+    "score": {
+      "overall": 66,
+      "price": 40,
+      "location": 97,
+      "size": 92,
+      "amenities": 30
+    }
+  },
+  {
+    "id": "prop-007",
+    "title": "Luxury 3 Bedroom Apartment",
+    "description": "A luxury 3-bedroom villa located in Gulshan, offering 2819 sqft of living space with 3 premium amenities nearby.",
+    "type": "Villa",
+    "price": 143000,
+    "priceType": "rent",
+    "location": {
+      "area": "Gulshan",
+      "city": "Dhaka",
+      "lat": 23.787458,
+      "lng": 90.399081
+    },
+    "size": 2819,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Playground",
+      "Community Hall",
+      "Gym"
+    ],
+    "rating": 4.8,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 131735
+      },
+      {
+        "month": "Feb",
+        "price": 130981
+      },
+      {
+        "month": "Mar",
+        "price": 133619
+      },
+      {
+        "month": "Apr",
+        "price": 132664
+      },
+      {
+        "month": "May",
+        "price": 131064
+      },
+      {
+        "month": "Jun",
+        "price": 143000
+      }
+    ],
+    "score": {
+      "overall": 68,
+      "price": 49,
+      "location": 93,
+      "size": 99,
+      "amenities": 30
+    }
+  },
+  {
+    "id": "prop-008",
+    "title": "Luxury 2 Bedroom Flat",
+    "description": "A spacious 2-bedroom villa located in Gulshan, offering 2367 sqft of living space with 6 premium amenities nearby.",
+    "type": "Villa",
+    "price": 99000,
+    "priceType": "rent",
+    "location": {
+      "area": "Gulshan",
+      "city": "Dhaka",
+      "lat": 23.784439,
+      "lng": 90.406421
+    },
+    "size": 2367,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Rooftop Access",
+      "CCTV",
+      "Parking",
+      "Security",
+      "Playground",
+      "Community Hall"
+    ],
+    "rating": 4.2,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 84769
+      },
+      {
+        "month": "Feb",
+        "price": 85426
+      },
+      {
+        "month": "Mar",
+        "price": 88200
+      },
+      {
+        "month": "Apr",
+        "price": 86835
+      },
+      {
+        "month": "May",
+        "price": 89308
+      },
+      {
+        "month": "Jun",
+        "price": 99000
+      }
+    ],
+    "score": {
+      "overall": 77,
+      "price": 60,
+      "location": 93,
+      "size": 97,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-009",
+    "title": "Premium 5 Bedroom House",
+    "description": "A premium 5-bedroom apartment located in Gulshan, offering 1082 sqft of living space with 6 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 73000,
+    "priceType": "rent",
+    "location": {
+      "area": "Gulshan",
+      "city": "Dhaka",
+      "lat": 23.799474,
+      "lng": 90.401126
+    },
+    "size": 1082,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "CCTV",
+      "Gym",
+      "Rooftop Access",
+      "Parking",
+      "Elevator",
+      "Community Hall"
+    ],
+    "rating": 3.5,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 66664
+      },
+      {
+        "month": "Feb",
+        "price": 67647
+      },
+      {
+        "month": "Mar",
+        "price": 68495
+      },
+      {
+        "month": "Apr",
+        "price": 70199
+      },
+      {
+        "month": "May",
+        "price": 69036
+      },
+      {
+        "month": "Jun",
+        "price": 73000
+      }
+    ],
+    "score": {
+      "overall": 66,
+      "price": 40,
+      "location": 95,
+      "size": 66,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-010",
+    "title": "Luxury 5 Bedroom Villa",
+    "description": "A contemporary 5-bedroom villa located in Gulshan, offering 932 sqft of living space with 3 premium amenities nearby.",
+    "type": "Villa",
+    "price": 14660000,
+    "priceType": "sale",
+    "location": {
+      "area": "Gulshan",
+      "city": "Dhaka",
+      "lat": 23.784102,
+      "lng": 90.401516
+    },
+    "size": 932,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Gym",
+      "Rooftop Access",
+      "Elevator"
+    ],
+    "rating": 4.9,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 13053571
+      },
+      {
+        "month": "Feb",
+        "price": 12979441
+      },
+      {
+        "month": "Mar",
+        "price": 13028077
+      },
+      {
+        "month": "Apr",
+        "price": 13292566
+      },
+      {
+        "month": "May",
+        "price": 13265978
+      },
+      {
+        "month": "Jun",
+        "price": 14660000
+      }
+    ],
+    "score": {
+      "overall": 59,
+      "price": 40,
+      "location": 97,
+      "size": 62,
+      "amenities": 30
+    }
+  },
+  {
+    "id": "prop-011",
+    "title": "Modern 5 Bedroom Residence",
+    "description": "A luxury 5-bedroom apartment located in Banani, offering 1000 sqft of living space with 5 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 54000,
+    "priceType": "rent",
+    "location": {
+      "area": "Banani",
+      "city": "Dhaka",
+      "lat": 23.793818,
+      "lng": 90.399249
+    },
+    "size": 1000,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Elevator",
+      "Gym",
+      "Security",
+      "Generator",
+      "Playground"
+    ],
+    "rating": 4.9,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 46016
+      },
+      {
+        "month": "Feb",
+        "price": 45391
+      },
+      {
+        "month": "Mar",
+        "price": 45990
+      },
+      {
+        "month": "Apr",
+        "price": 45821
+      },
+      {
+        "month": "May",
+        "price": 46568
+      },
+      {
+        "month": "Jun",
+        "price": 54000
+      }
+    ],
+    "score": {
+      "overall": 63,
+      "price": 46,
+      "location": 89,
+      "size": 64,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-012",
+    "title": "Modern 3 Bedroom Apartment",
+    "description": "A cozy 3-bedroom apartment located in Banani, offering 1728 sqft of living space with 6 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 115000,
+    "priceType": "rent",
+    "location": {
+      "area": "Banani",
+      "city": "Dhaka",
+      "lat": 23.800622,
+      "lng": 90.398446
+    },
+    "size": 1728,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Parking",
+      "Community Hall",
+      "Generator",
+      "Elevator",
+      "Rooftop Access"
+    ],
+    "rating": 4.2,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 108953
+      },
+      {
+        "month": "Feb",
+        "price": 107742
+      },
+      {
+        "month": "Mar",
+        "price": 106411
+      },
+      {
+        "month": "Apr",
+        "price": 106251
+      },
+      {
+        "month": "May",
+        "price": 109857
+      },
+      {
+        "month": "Jun",
+        "price": 115000
+      }
+    ],
+    "score": {
+      "overall": 66,
+      "price": 40,
+      "location": 87,
+      "size": 81,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-013",
+    "title": "Charming 2 Bedroom Flat",
+    "description": "A cozy 2-bedroom apartment located in Banani, offering 1121 sqft of living space with 4 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 12860000,
+    "priceType": "sale",
+    "location": {
+      "area": "Banani",
+      "city": "Dhaka",
+      "lat": 23.794898,
+      "lng": 90.414094
+    },
+    "size": 1121,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Gym",
+      "Generator",
+      "Community Hall",
+      "Playground"
+    ],
+    "rating": 4.6,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 11427905
+      },
+      {
+        "month": "Feb",
+        "price": 11788062
+      },
+      {
+        "month": "Mar",
+        "price": 11709624
+      },
+      {
+        "month": "Apr",
+        "price": 12049147
+      },
+      {
+        "month": "May",
+        "price": 12140940
+      },
+      {
+        "month": "Jun",
+        "price": 12860000
+      }
+    ],
+    "score": {
+      "overall": 64,
+      "price": 52,
+      "location": 89,
+      "size": 67,
+      "amenities": 40
+    }
+  },
+  {
+    "id": "prop-014",
+    "title": "Modern 2 Bedroom Apartment",
+    "description": "A charming 2-bedroom apartment located in Banani, offering 2044 sqft of living space with 5 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 91000,
+    "priceType": "rent",
+    "location": {
+      "area": "Banani",
+      "city": "Dhaka",
+      "lat": 23.785088,
+      "lng": 90.412067
+    },
+    "size": 2044,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Community Hall",
+      "Rooftop Access",
+      "Security",
+      "Parking",
+      "Playground"
+    ],
+    "rating": 3.8,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 85029
+      },
+      {
+        "month": "Feb",
+        "price": 88350
+      },
+      {
+        "month": "Mar",
+        "price": 87196
+      },
+      {
+        "month": "Apr",
+        "price": 90158
+      },
+      {
+        "month": "May",
+        "price": 89383
+      },
+      {
+        "month": "Jun",
+        "price": 91000
+      }
+    ],
+    "score": {
+      "overall": 72,
+      "price": 56,
+      "location": 91,
+      "size": 89,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-015",
+    "title": "Cozy 5 Bedroom Flat",
+    "description": "A charming 5-bedroom house located in Banani, offering 2191 sqft of living space with 5 premium amenities nearby.",
+    "type": "House",
+    "price": 110000,
+    "priceType": "rent",
+    "location": {
+      "area": "Banani",
+      "city": "Dhaka",
+      "lat": 23.802677,
+      "lng": 90.415015
+    },
+    "size": 2191,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Elevator",
+      "Swimming Pool",
+      "Community Hall",
+      "Security",
+      "Gym"
+    ],
+    "rating": 4.4,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 105182
+      },
+      {
+        "month": "Feb",
+        "price": 104978
+      },
+      {
+        "month": "Mar",
+        "price": 106329
+      },
+      {
+        "month": "Apr",
+        "price": 104205
+      },
+      {
+        "month": "May",
+        "price": 103915
+      },
+      {
+        "month": "Jun",
+        "price": 110000
+      }
+    ],
+    "score": {
+      "overall": 71,
+      "price": 50,
+      "location": 90,
+      "size": 93,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-016",
+    "title": "Spacious 3 Bedroom Flat",
+    "description": "A modern 3-bedroom villa located in Banani, offering 2509 sqft of living space with 4 premium amenities nearby.",
+    "type": "Villa",
+    "price": 127000,
+    "priceType": "rent",
+    "location": {
+      "area": "Banani",
+      "city": "Dhaka",
+      "lat": 23.787974,
+      "lng": 90.406064
+    },
+    "size": 2509,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Elevator",
+      "Swimming Pool",
+      "Security",
+      "Parking"
+    ],
+    "rating": 3.6,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 117516
+      },
+      {
+        "month": "Feb",
+        "price": 115679
+      },
+      {
+        "month": "Mar",
+        "price": 116242
+      },
+      {
+        "month": "Apr",
+        "price": 118310
+      },
+      {
+        "month": "May",
+        "price": 117324
+      },
+      {
+        "month": "Jun",
+        "price": 127000
+      }
+    ],
+    "score": {
+      "overall": 69,
+      "price": 49,
+      "location": 87,
+      "size": 99,
+      "amenities": 40
+    }
+  },
+  {
+    "id": "prop-017",
+    "title": "Premium 2 Bedroom Residence",
+    "description": "A charming 2-bedroom house located in Banani, offering 1136 sqft of living space with 6 premium amenities nearby.",
+    "type": "House",
+    "price": 71000,
+    "priceType": "rent",
+    "location": {
+      "area": "Banani",
+      "city": "Dhaka",
+      "lat": 23.788077,
+      "lng": 90.412682
+    },
+    "size": 1136,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Parking",
+      "Community Hall",
+      "Gym",
+      "Rooftop Access",
+      "Playground",
+      "CCTV"
+    ],
+    "rating": 4.7,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 66413
+      },
+      {
+        "month": "Feb",
+        "price": 68048
+      },
+      {
+        "month": "Mar",
+        "price": 68625
+      },
+      {
+        "month": "Apr",
+        "price": 68320
+      },
+      {
+        "month": "May",
+        "price": 67967
+      },
+      {
+        "month": "Jun",
+        "price": 71000
+      }
+    ],
+    "score": {
+      "overall": 65,
+      "price": 40,
+      "location": 93,
+      "size": 67,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-018",
+    "title": "Luxury 2 Bedroom Villa",
+    "description": "A contemporary 2-bedroom villa located in Banani, offering 2501 sqft of living space with 5 premium amenities nearby.",
+    "type": "Villa",
+    "price": 94000,
+    "priceType": "rent",
+    "location": {
+      "area": "Banani",
+      "city": "Dhaka",
+      "lat": 23.789415,
+      "lng": 90.402034
+    },
+    "size": 2501,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Community Hall",
+      "Elevator",
+      "Generator",
+      "Playground",
+      "Rooftop Access"
+    ],
+    "rating": 4.2,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 83172
+      },
+      {
+        "month": "Feb",
+        "price": 83605
+      },
+      {
+        "month": "Mar",
+        "price": 86472
+      },
+      {
+        "month": "Apr",
+        "price": 87773
+      },
+      {
+        "month": "May",
+        "price": 89681
+      },
+      {
+        "month": "Jun",
+        "price": 94000
+      }
+    ],
+    "score": {
+      "overall": 77,
+      "price": 67,
+      "location": 90,
+      "size": 99,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-019",
+    "title": "Charming 1 Bedroom House",
+    "description": "A charming 1-bedroom villa located in Banani, offering 1923 sqft of living space with 6 premium amenities nearby.",
+    "type": "Villa",
+    "price": 118000,
+    "priceType": "rent",
+    "location": {
+      "area": "Banani",
+      "city": "Dhaka",
+      "lat": 23.800769,
+      "lng": 90.415669
+    },
+    "size": 1923,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Community Hall",
+      "Playground",
+      "Gym",
+      "CCTV",
+      "Elevator",
+      "Generator"
+    ],
+    "rating": 4.5,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 114095
+      },
+      {
+        "month": "Feb",
+        "price": 118526
+      },
+      {
+        "month": "Mar",
+        "price": 119954
+      },
+      {
+        "month": "Apr",
+        "price": 124083
+      },
+      {
+        "month": "May",
+        "price": 126008
+      },
+      {
+        "month": "Jun",
+        "price": 118000
+      }
+    ],
+    "score": {
+      "overall": 69,
+      "price": 41,
+      "location": 92,
+      "size": 86,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-020",
+    "title": "Modern 2 Bedroom Residence",
+    "description": "A contemporary 2-bedroom apartment located in Banani, offering 1444 sqft of living space with 5 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 53000,
+    "priceType": "rent",
+    "location": {
+      "area": "Banani",
+      "city": "Dhaka",
+      "lat": 23.791282,
+      "lng": 90.400833
+    },
+    "size": 1444,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Security",
+      "Rooftop Access",
+      "Swimming Pool",
+      "Community Hall",
+      "Gym"
+    ],
+    "rating": 3.6,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 47114
+      },
+      {
+        "month": "Feb",
+        "price": 46285
+      },
+      {
+        "month": "Mar",
+        "price": 45446
+      },
+      {
+        "month": "Apr",
+        "price": 45211
+      },
+      {
+        "month": "May",
+        "price": 46584
+      },
+      {
+        "month": "Jun",
+        "price": 53000
+      }
+    ],
+    "score": {
+      "overall": 72,
+      "price": 68,
+      "location": 87,
+      "size": 75,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-021",
+    "title": "Charming 1 Bedroom Villa",
+    "description": "A spacious 1-bedroom apartment located in Dhanmondi, offering 2604 sqft of living space with 3 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 155000,
+    "priceType": "rent",
+    "location": {
+      "area": "Dhanmondi",
+      "city": "Dhaka",
+      "lat": 23.751438,
+      "lng": 90.367556
+    },
+    "size": 2604,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Generator",
+      "Swimming Pool",
+      "Elevator"
+    ],
+    "rating": 3.3,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 144967
+      },
+      {
+        "month": "Feb",
+        "price": 142954
+      },
+      {
+        "month": "Mar",
+        "price": 146720
+      },
+      {
+        "month": "Apr",
+        "price": 151271
+      },
+      {
+        "month": "May",
+        "price": 153695
+      },
+      {
+        "month": "Jun",
+        "price": 155000
+      }
+    ],
+    "score": {
+      "overall": 64,
+      "price": 42,
+      "location": 87,
+      "size": 99,
+      "amenities": 30
+    }
+  },
+  {
+    "id": "prop-022",
+    "title": "Cozy 3 Bedroom Residence",
+    "description": "A elegant 3-bedroom villa located in Dhanmondi, offering 2217 sqft of living space with 6 premium amenities nearby.",
+    "type": "Villa",
+    "price": 21020000,
+    "priceType": "sale",
+    "location": {
+      "area": "Dhanmondi",
+      "city": "Dhaka",
+      "lat": 23.749051,
+      "lng": 90.364453
+    },
+    "size": 2217,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "CCTV",
+      "Elevator",
+      "Rooftop Access",
+      "Generator",
+      "Security",
+      "Gym"
+    ],
+    "rating": 4.3,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 20324311
+      },
+      {
+        "month": "Feb",
+        "price": 20484719
+      },
+      {
+        "month": "Mar",
+        "price": 21089922
+      },
+      {
+        "month": "Apr",
+        "price": 21417838
+      },
+      {
+        "month": "May",
+        "price": 21403665
+      },
+      {
+        "month": "Jun",
+        "price": 21020000
+      }
+    ],
+    "score": {
+      "overall": 76,
+      "price": 63,
+      "location": 87,
+      "size": 93,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-023",
+    "title": "Modern 4 Bedroom Residence",
+    "description": "A luxury 4-bedroom apartment located in Dhanmondi, offering 2603 sqft of living space with 6 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 143000,
+    "priceType": "rent",
+    "location": {
+      "area": "Dhanmondi",
+      "city": "Dhaka",
+      "lat": 23.749464,
+      "lng": 90.370928
+    },
+    "size": 2603,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Security",
+      "Generator",
+      "CCTV",
+      "Elevator",
+      "Community Hall",
+      "Playground"
+    ],
+    "rating": 3.6,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 129057
+      },
+      {
+        "month": "Feb",
+        "price": 128337
+      },
+      {
+        "month": "Mar",
+        "price": 129436
+      },
+      {
+        "month": "Apr",
+        "price": 132376
+      },
+      {
+        "month": "May",
+        "price": 133288
+      },
+      {
+        "month": "Jun",
+        "price": 143000
+      }
+    ],
+    "score": {
+      "overall": 70,
+      "price": 46,
+      "location": 83,
+      "size": 99,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-024",
+    "title": "Contemporary 2 Bedroom Apartment",
+    "description": "A cozy 2-bedroom house located in Dhanmondi, offering 2211 sqft of living space with 5 premium amenities nearby.",
+    "type": "House",
+    "price": 114000,
+    "priceType": "rent",
+    "location": {
+      "area": "Dhanmondi",
+      "city": "Dhaka",
+      "lat": 23.746718,
+      "lng": 90.37271
+    },
+    "size": 2211,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Security",
+      "CCTV",
+      "Swimming Pool",
+      "Generator",
+      "Rooftop Access"
+    ],
+    "rating": 3.5,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 104961
+      },
+      {
+        "month": "Feb",
+        "price": 106575
+      },
+      {
+        "month": "Mar",
+        "price": 109304
+      },
+      {
+        "month": "Apr",
+        "price": 111032
+      },
+      {
+        "month": "May",
+        "price": 115344
+      },
+      {
+        "month": "Jun",
+        "price": 114000
+      }
+    ],
+    "score": {
+      "overall": 69,
+      "price": 48,
+      "location": 87,
+      "size": 93,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-025",
+    "title": "Modern 2 Bedroom Residence",
+    "description": "A premium 2-bedroom house located in Dhanmondi, offering 757 sqft of living space with 3 premium amenities nearby.",
+    "type": "House",
+    "price": 45000,
+    "priceType": "rent",
+    "location": {
+      "area": "Dhanmondi",
+      "city": "Dhaka",
+      "lat": 23.738632,
+      "lng": 90.36511
+    },
+    "size": 757,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Community Hall",
+      "Swimming Pool",
+      "Generator"
+    ],
+    "rating": 4.1,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 41292
+      },
+      {
+        "month": "Feb",
+        "price": 41092
+      },
+      {
+        "month": "Mar",
+        "price": 42395
+      },
+      {
+        "month": "Apr",
+        "price": 41837
+      },
+      {
+        "month": "May",
+        "price": 41164
+      },
+      {
+        "month": "Jun",
+        "price": 45000
+      }
+    ],
+    "score": {
+      "overall": 55,
+      "price": 42,
+      "location": 84,
+      "size": 58,
+      "amenities": 30
+    }
+  },
+  {
+    "id": "prop-026",
+    "title": "Charming 1 Bedroom Villa",
+    "description": "A elegant 1-bedroom villa located in Dhanmondi, offering 1311 sqft of living space with 4 premium amenities nearby.",
+    "type": "Villa",
+    "price": 83000,
+    "priceType": "rent",
+    "location": {
+      "area": "Dhanmondi",
+      "city": "Dhaka",
+      "lat": 23.755083,
+      "lng": 90.365904
+    },
+    "size": 1311,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Elevator",
+      "Community Hall",
+      "Rooftop Access",
+      "Swimming Pool"
+    ],
+    "rating": 4.7,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 78635
+      },
+      {
+        "month": "Feb",
+        "price": 79993
+      },
+      {
+        "month": "Mar",
+        "price": 81319
+      },
+      {
+        "month": "Apr",
+        "price": 83303
+      },
+      {
+        "month": "May",
+        "price": 86373
+      },
+      {
+        "month": "Jun",
+        "price": 83000
+      }
+    ],
+    "score": {
+      "overall": 60,
+      "price": 40,
+      "location": 85,
+      "size": 71,
+      "amenities": 40
+    }
+  },
+  {
+    "id": "prop-027",
+    "title": "Luxury 1 Bedroom Flat",
+    "description": "A spacious 1-bedroom apartment located in Dhanmondi, offering 1682 sqft of living space with 6 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 69000,
+    "priceType": "rent",
+    "location": {
+      "area": "Dhanmondi",
+      "city": "Dhaka",
+      "lat": 23.737601,
+      "lng": 90.364254
+    },
+    "size": 1682,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Playground",
+      "CCTV",
+      "Swimming Pool",
+      "Parking",
+      "Elevator",
+      "Generator"
+    ],
+    "rating": 4.0,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 63584
+      },
+      {
+        "month": "Feb",
+        "price": 65778
+      },
+      {
+        "month": "Mar",
+        "price": 67725
+      },
+      {
+        "month": "Apr",
+        "price": 66661
+      },
+      {
+        "month": "May",
+        "price": 65991
+      },
+      {
+        "month": "Jun",
+        "price": 69000
+      }
+    ],
+    "score": {
+      "overall": 72,
+      "price": 61,
+      "location": 84,
+      "size": 80,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-028",
+    "title": "Contemporary 3 Bedroom Residence",
+    "description": "A modern 3-bedroom villa located in Dhanmondi, offering 1209 sqft of living space with 5 premium amenities nearby.",
+    "type": "Villa",
+    "price": 14850000,
+    "priceType": "sale",
+    "location": {
+      "area": "Dhanmondi",
+      "city": "Dhaka",
+      "lat": 23.742182,
+      "lng": 90.37225
+    },
+    "size": 1209,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Community Hall",
+      "Playground",
+      "CCTV",
+      "Gym",
+      "Parking"
+    ],
+    "rating": 3.4,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 14474679
+      },
+      {
+        "month": "Feb",
+        "price": 14684735
+      },
+      {
+        "month": "Mar",
+        "price": 15228763
+      },
+      {
+        "month": "Apr",
+        "price": 15837523
+      },
+      {
+        "month": "May",
+        "price": 16159609
+      },
+      {
+        "month": "Jun",
+        "price": 14850000
+      }
+    ],
+    "score": {
+      "overall": 64,
+      "price": 49,
+      "location": 84,
+      "size": 69,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-029",
+    "title": "Contemporary 2 Bedroom Villa",
+    "description": "A premium 2-bedroom apartment located in Dhanmondi, offering 2825 sqft of living space with 6 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 38310000,
+    "priceType": "sale",
+    "location": {
+      "area": "Dhanmondi",
+      "city": "Dhaka",
+      "lat": 23.754421,
+      "lng": 90.36783
+    },
+    "size": 2825,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "CCTV",
+      "Elevator",
+      "Playground",
+      "Generator",
+      "Gym",
+      "Rooftop Access"
+    ],
+    "rating": 3.7,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 37227156
+      },
+      {
+        "month": "Feb",
+        "price": 37711325
+      },
+      {
+        "month": "Mar",
+        "price": 37986224
+      },
+      {
+        "month": "Apr",
+        "price": 37943339
+      },
+      {
+        "month": "May",
+        "price": 37920437
+      },
+      {
+        "month": "Jun",
+        "price": 38310000
+      }
+    ],
+    "score": {
+      "overall": 71,
+      "price": 44,
+      "location": 87,
+      "size": 99,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-030",
+    "title": "Luxury 1 Bedroom Apartment",
+    "description": "A spacious 1-bedroom house located in Dhanmondi, offering 2392 sqft of living space with 6 premium amenities nearby.",
+    "type": "House",
+    "price": 22440000,
+    "priceType": "sale",
+    "location": {
+      "area": "Dhanmondi",
+      "city": "Dhaka",
+      "lat": 23.746469,
+      "lng": 90.376653
+    },
+    "size": 2392,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "CCTV",
+      "Parking",
+      "Gym",
+      "Generator",
+      "Swimming Pool",
+      "Elevator"
+    ],
+    "rating": 4.5,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 19392119
+      },
+      {
+        "month": "Feb",
+        "price": 19478984
+      },
+      {
+        "month": "Mar",
+        "price": 19352021
+      },
+      {
+        "month": "Apr",
+        "price": 19941955
+      },
+      {
+        "month": "May",
+        "price": 19678874
+      },
+      {
+        "month": "Jun",
+        "price": 22440000
+      }
+    ],
+    "score": {
+      "overall": 77,
+      "price": 64,
+      "location": 87,
+      "size": 97,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-031",
+    "title": "Elegant 4 Bedroom Villa",
+    "description": "A elegant 4-bedroom villa located in Uttara, offering 2784 sqft of living space with 6 premium amenities nearby.",
+    "type": "Villa",
+    "price": 38800000,
+    "priceType": "sale",
+    "location": {
+      "area": "Uttara",
+      "city": "Dhaka",
+      "lat": 23.87421,
+      "lng": 90.37915
+    },
+    "size": 2784,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Gym",
+      "CCTV",
+      "Generator",
+      "Playground",
+      "Elevator",
+      "Swimming Pool"
+    ],
+    "rating": 4.7,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 34006308
+      },
+      {
+        "month": "Feb",
+        "price": 34523757
+      },
+      {
+        "month": "Mar",
+        "price": 35902433
+      },
+      {
+        "month": "Apr",
+        "price": 36239141
+      },
+      {
+        "month": "May",
+        "price": 35837457
+      },
+      {
+        "month": "Jun",
+        "price": 38800000
+      }
+    ],
+    "score": {
+      "overall": 67,
+      "price": 43,
+      "location": 74,
+      "size": 99,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-032",
+    "title": "Premium 5 Bedroom Villa",
+    "description": "A cozy 5-bedroom house located in Uttara, offering 2565 sqft of living space with 4 premium amenities nearby.",
+    "type": "House",
+    "price": 174000,
+    "priceType": "rent",
+    "location": {
+      "area": "Uttara",
+      "city": "Dhaka",
+      "lat": 23.883292,
+      "lng": 90.389115
+    },
+    "size": 2565,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Playground",
+      "Rooftop Access",
+      "Gym",
+      "Community Hall"
+    ],
+    "rating": 4.1,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 150050
+      },
+      {
+        "month": "Feb",
+        "price": 152362
+      },
+      {
+        "month": "Mar",
+        "price": 157266
+      },
+      {
+        "month": "Apr",
+        "price": 162369
+      },
+      {
+        "month": "May",
+        "price": 163411
+      },
+      {
+        "month": "Jun",
+        "price": 174000
+      }
+    ],
+    "score": {
+      "overall": 62,
+      "price": 40,
+      "location": 75,
+      "size": 99,
+      "amenities": 40
+    }
+  },
+  {
+    "id": "prop-033",
+    "title": "Spacious 2 Bedroom House",
+    "description": "A luxury 2-bedroom house located in Uttara, offering 1332 sqft of living space with 6 premium amenities nearby.",
+    "type": "House",
+    "price": 50000,
+    "priceType": "rent",
+    "location": {
+      "area": "Uttara",
+      "city": "Dhaka",
+      "lat": 23.881531,
+      "lng": 90.3748
+    },
+    "size": 1332,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Elevator",
+      "Security",
+      "Rooftop Access",
+      "Generator",
+      "Community Hall",
+      "Gym"
+    ],
+    "rating": 4.0,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 43767
+      },
+      {
+        "month": "Feb",
+        "price": 45183
+      },
+      {
+        "month": "Mar",
+        "price": 45482
+      },
+      {
+        "month": "Apr",
+        "price": 46467
+      },
+      {
+        "month": "May",
+        "price": 48056
+      },
+      {
+        "month": "Jun",
+        "price": 50000
+      }
+    ],
+    "score": {
+      "overall": 68,
+      "price": 67,
+      "location": 73,
+      "size": 72,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-034",
+    "title": "Premium 3 Bedroom Residence",
+    "description": "A spacious 3-bedroom apartment located in Uttara, offering 1296 sqft of living space with 4 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 56000,
+    "priceType": "rent",
+    "location": {
+      "area": "Uttara",
+      "city": "Dhaka",
+      "lat": 23.874141,
+      "lng": 90.383136
+    },
+    "size": 1296,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Generator",
+      "Playground",
+      "Elevator",
+      "Swimming Pool"
+    ],
+    "rating": 4.0,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 48793
+      },
+      {
+        "month": "Feb",
+        "price": 47844
+      },
+      {
+        "month": "Mar",
+        "price": 49197
+      },
+      {
+        "month": "Apr",
+        "price": 50874
+      },
+      {
+        "month": "May",
+        "price": 51925
+      },
+      {
+        "month": "Jun",
+        "price": 56000
+      }
+    ],
+    "score": {
+      "overall": 62,
+      "price": 58,
+      "location": 73,
+      "size": 71,
+      "amenities": 40
+    }
+  },
+  {
+    "id": "prop-035",
+    "title": "Modern 5 Bedroom Villa",
+    "description": "A modern 5-bedroom house located in Uttara, offering 2437 sqft of living space with 6 premium amenities nearby.",
+    "type": "House",
+    "price": 33710000,
+    "priceType": "sale",
+    "location": {
+      "area": "Uttara",
+      "city": "Dhaka",
+      "lat": 23.875037,
+      "lng": 90.375542
+    },
+    "size": 2437,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "CCTV",
+      "Elevator",
+      "Gym",
+      "Playground",
+      "Swimming Pool",
+      "Generator"
+    ],
+    "rating": 4.2,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 31729558
+      },
+      {
+        "month": "Feb",
+        "price": 31188336
+      },
+      {
+        "month": "Mar",
+        "price": 31699338
+      },
+      {
+        "month": "Apr",
+        "price": 32010107
+      },
+      {
+        "month": "May",
+        "price": 33106431
+      },
+      {
+        "month": "Jun",
+        "price": 33710000
+      }
+    ],
+    "score": {
+      "overall": 67,
+      "price": 43,
+      "location": 74,
+      "size": 98,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-036",
+    "title": "Cozy 3 Bedroom Apartment",
+    "description": "A contemporary 3-bedroom apartment located in Uttara, offering 1478 sqft of living space with 4 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 84000,
+    "priceType": "rent",
+    "location": {
+      "area": "Uttara",
+      "city": "Dhaka",
+      "lat": 23.879455,
+      "lng": 90.383919
+    },
+    "size": 1478,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Elevator",
+      "Parking",
+      "Swimming Pool",
+      "Rooftop Access"
+    ],
+    "rating": 4.5,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 71996
+      },
+      {
+        "month": "Feb",
+        "price": 72886
+      },
+      {
+        "month": "Mar",
+        "price": 75677
+      },
+      {
+        "month": "Apr",
+        "price": 76574
+      },
+      {
+        "month": "May",
+        "price": 79239
+      },
+      {
+        "month": "Jun",
+        "price": 84000
+      }
+    ],
+    "score": {
+      "overall": 58,
+      "price": 44,
+      "location": 74,
+      "size": 75,
+      "amenities": 40
+    }
+  },
+  {
+    "id": "prop-037",
+    "title": "Luxury 4 Bedroom Villa",
+    "description": "A elegant 4-bedroom house located in Uttara, offering 2087 sqft of living space with 4 premium amenities nearby.",
+    "type": "House",
+    "price": 30530000,
+    "priceType": "sale",
+    "location": {
+      "area": "Uttara",
+      "city": "Dhaka",
+      "lat": 23.875267,
+      "lng": 90.371006
+    },
+    "size": 2087,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Rooftop Access",
+      "Community Hall",
+      "Security",
+      "Parking"
+    ],
+    "rating": 4.3,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 29497831
+      },
+      {
+        "month": "Feb",
+        "price": 29099633
+      },
+      {
+        "month": "Mar",
+        "price": 28925888
+      },
+      {
+        "month": "Apr",
+        "price": 28390802
+      },
+      {
+        "month": "May",
+        "price": 29329234
+      },
+      {
+        "month": "Jun",
+        "price": 30530000
+      }
+    ],
+    "score": {
+      "overall": 60,
+      "price": 41,
+      "location": 74,
+      "size": 90,
+      "amenities": 40
+    }
+  },
+  {
+    "id": "prop-038",
+    "title": "Charming 1 Bedroom Villa",
+    "description": "A charming 1-bedroom villa located in Uttara, offering 1937 sqft of living space with 3 premium amenities nearby.",
+    "type": "Villa",
+    "price": 112000,
+    "priceType": "rent",
+    "location": {
+      "area": "Uttara",
+      "city": "Dhaka",
+      "lat": 23.868234,
+      "lng": 90.370407
+    },
+    "size": 1937,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "CCTV",
+      "Elevator"
+    ],
+    "rating": 4.3,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 106761
+      },
+      {
+        "month": "Feb",
+        "price": 108821
+      },
+      {
+        "month": "Mar",
+        "price": 112088
+      },
+      {
+        "month": "Apr",
+        "price": 113987
+      },
+      {
+        "month": "May",
+        "price": 118129
+      },
+      {
+        "month": "Jun",
+        "price": 112000
+      }
+    ],
+    "score": {
+      "overall": 58,
+      "price": 43,
+      "location": 74,
+      "size": 86,
+      "amenities": 30
+    }
+  },
+  {
+    "id": "prop-039",
+    "title": "Modern 4 Bedroom Apartment",
+    "description": "A contemporary 4-bedroom villa located in Uttara, offering 1667 sqft of living space with 5 premium amenities nearby.",
+    "type": "Villa",
+    "price": 108000,
+    "priceType": "rent",
+    "location": {
+      "area": "Uttara",
+      "city": "Dhaka",
+      "lat": 23.867887,
+      "lng": 90.383214
+    },
+    "size": 1667,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Parking",
+      "Rooftop Access",
+      "Swimming Pool",
+      "Elevator",
+      "Playground"
+    ],
+    "rating": 3.6,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 94453
+      },
+      {
+        "month": "Feb",
+        "price": 92952
+      },
+      {
+        "month": "Mar",
+        "price": 95361
+      },
+      {
+        "month": "Apr",
+        "price": 94639
+      },
+      {
+        "month": "May",
+        "price": 93972
+      },
+      {
+        "month": "Jun",
+        "price": 108000
+      }
+    ],
+    "score": {
+      "overall": 61,
+      "price": 40,
+      "location": 78,
+      "size": 80,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-040",
+    "title": "Modern 5 Bedroom Flat",
+    "description": "A modern 5-bedroom house located in Uttara, offering 1835 sqft of living space with 5 premium amenities nearby.",
+    "type": "House",
+    "price": 27540000,
+    "priceType": "sale",
+    "location": {
+      "area": "Uttara",
+      "city": "Dhaka",
+      "lat": 23.868794,
+      "lng": 90.3721
+    },
+    "size": 1835,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Generator",
+      "Elevator",
+      "Parking",
+      "Community Hall",
+      "CCTV"
+    ],
+    "rating": 3.4,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 24244489
+      },
+      {
+        "month": "Feb",
+        "price": 23852055
+      },
+      {
+        "month": "Mar",
+        "price": 24016551
+      },
+      {
+        "month": "Apr",
+        "price": 24057916
+      },
+      {
+        "month": "May",
+        "price": 24433700
+      },
+      {
+        "month": "Jun",
+        "price": 27540000
+      }
+    ],
+    "score": {
+      "overall": 61,
+      "price": 40,
+      "location": 74,
+      "size": 84,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-041",
+    "title": "Luxury 1 Bedroom Flat",
+    "description": "A contemporary 1-bedroom apartment located in Mirpur, offering 2576 sqft of living space with 6 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 34780000,
+    "priceType": "sale",
+    "location": {
+      "area": "Mirpur",
+      "city": "Dhaka",
+      "lat": 23.812923,
+      "lng": 90.375372
+    },
+    "size": 2576,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Rooftop Access",
+      "Elevator",
+      "CCTV",
+      "Security",
+      "Gym",
+      "Parking"
+    ],
+    "rating": 3.9,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 31567761
+      },
+      {
+        "month": "Feb",
+        "price": 31893953
+      },
+      {
+        "month": "Mar",
+        "price": 32079319
+      },
+      {
+        "month": "Apr",
+        "price": 32964252
+      },
+      {
+        "month": "May",
+        "price": 32531261
+      },
+      {
+        "month": "Jun",
+        "price": 34780000
+      }
+    ],
+    "score": {
+      "overall": 64,
+      "price": 44,
+      "location": 64,
+      "size": 99,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-042",
+    "title": "Luxury 2 Bedroom Apartment",
+    "description": "A luxury 2-bedroom villa located in Mirpur, offering 2549 sqft of living space with 6 premium amenities nearby.",
+    "type": "Villa",
+    "price": 38790000,
+    "priceType": "sale",
+    "location": {
+      "area": "Mirpur",
+      "city": "Dhaka",
+      "lat": 23.820576,
+      "lng": 90.371948
+    },
+    "size": 2549,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Rooftop Access",
+      "Elevator",
+      "Security",
+      "Gym",
+      "Generator",
+      "CCTV"
+    ],
+    "rating": 3.4,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 34157309
+      },
+      {
+        "month": "Feb",
+        "price": 35137834
+      },
+      {
+        "month": "Mar",
+        "price": 35608057
+      },
+      {
+        "month": "Apr",
+        "price": 36148869
+      },
+      {
+        "month": "May",
+        "price": 36643934
+      },
+      {
+        "month": "Jun",
+        "price": 38790000
+      }
+    ],
+    "score": {
+      "overall": 64,
+      "price": 40,
+      "location": 68,
+      "size": 99,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-043",
+    "title": "Luxury 4 Bedroom House",
+    "description": "A spacious 4-bedroom apartment located in Mirpur, offering 1878 sqft of living space with 4 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 105000,
+    "priceType": "rent",
+    "location": {
+      "area": "Mirpur",
+      "city": "Dhaka",
+      "lat": 23.819333,
+      "lng": 90.366958
+    },
+    "size": 1878,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Generator",
+      "CCTV",
+      "Gym",
+      "Rooftop Access"
+    ],
+    "rating": 4.7,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 101899
+      },
+      {
+        "month": "Feb",
+        "price": 104865
+      },
+      {
+        "month": "Mar",
+        "price": 106628
+      },
+      {
+        "month": "Apr",
+        "price": 108608
+      },
+      {
+        "month": "May",
+        "price": 106606
+      },
+      {
+        "month": "Jun",
+        "price": 105000
+      }
+    ],
+    "score": {
+      "overall": 58,
+      "price": 45,
+      "location": 66,
+      "size": 85,
+      "amenities": 40
+    }
+  },
+  {
+    "id": "prop-044",
+    "title": "Spacious 2 Bedroom Villa",
+    "description": "A premium 2-bedroom villa located in Mirpur, offering 1965 sqft of living space with 4 premium amenities nearby.",
+    "type": "Villa",
+    "price": 132000,
+    "priceType": "rent",
+    "location": {
+      "area": "Mirpur",
+      "city": "Dhaka",
+      "lat": 23.81932,
+      "lng": 90.359028
+    },
+    "size": 1965,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Playground",
+      "Rooftop Access",
+      "Elevator",
+      "CCTV"
+    ],
+    "rating": 3.8,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 119812
+      },
+      {
+        "month": "Feb",
+        "price": 123000
+      },
+      {
+        "month": "Mar",
+        "price": 124729
+      },
+      {
+        "month": "Apr",
+        "price": 122871
+      },
+      {
+        "month": "May",
+        "price": 120801
+      },
+      {
+        "month": "Jun",
+        "price": 132000
+      }
+    ],
+    "score": {
+      "overall": 57,
+      "price": 40,
+      "location": 65,
+      "size": 87,
+      "amenities": 40
+    }
+  },
+  {
+    "id": "prop-045",
+    "title": "Elegant 1 Bedroom Apartment",
+    "description": "A charming 1-bedroom villa located in Mirpur, offering 2514 sqft of living space with 5 premium amenities nearby.",
+    "type": "Villa",
+    "price": 146000,
+    "priceType": "rent",
+    "location": {
+      "area": "Mirpur",
+      "city": "Dhaka",
+      "lat": 23.822013,
+      "lng": 90.364241
+    },
+    "size": 2514,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Gym",
+      "Community Hall",
+      "Elevator",
+      "Generator",
+      "Playground"
+    ],
+    "rating": 5.0,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 123934
+      },
+      {
+        "month": "Feb",
+        "price": 128485
+      },
+      {
+        "month": "Mar",
+        "price": 131830
+      },
+      {
+        "month": "Apr",
+        "price": 135238
+      },
+      {
+        "month": "May",
+        "price": 134882
+      },
+      {
+        "month": "Jun",
+        "price": 146000
+      }
+    ],
+    "score": {
+      "overall": 62,
+      "price": 43,
+      "location": 63,
+      "size": 99,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-046",
+    "title": "Charming 2 Bedroom Residence",
+    "description": "A charming 2-bedroom house located in Mirpur, offering 2257 sqft of living space with 5 premium amenities nearby.",
+    "type": "House",
+    "price": 28730000,
+    "priceType": "sale",
+    "location": {
+      "area": "Mirpur",
+      "city": "Dhaka",
+      "lat": 23.816902,
+      "lng": 90.366574
+    },
+    "size": 2257,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Elevator",
+      "Rooftop Access",
+      "Parking",
+      "Gym",
+      "CCTV"
+    ],
+    "rating": 3.7,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 26555639
+      },
+      {
+        "month": "Feb",
+        "price": 26298378
+      },
+      {
+        "month": "Mar",
+        "price": 27267654
+      },
+      {
+        "month": "Apr",
+        "price": 27475047
+      },
+      {
+        "month": "May",
+        "price": 28062370
+      },
+      {
+        "month": "Jun",
+        "price": 28730000
+      }
+    ],
+    "score": {
+      "overall": 62,
+      "price": 47,
+      "location": 65,
+      "size": 94,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-047",
+    "title": "Contemporary 2 Bedroom House",
+    "description": "A cozy 2-bedroom house located in Mirpur, offering 2340 sqft of living space with 5 premium amenities nearby.",
+    "type": "House",
+    "price": 29640000,
+    "priceType": "sale",
+    "location": {
+      "area": "Mirpur",
+      "city": "Dhaka",
+      "lat": 23.820215,
+      "lng": 90.361605
+    },
+    "size": 2340,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Gym",
+      "Security",
+      "Generator",
+      "Parking",
+      "Swimming Pool"
+    ],
+    "rating": 3.6,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 25418841
+      },
+      {
+        "month": "Feb",
+        "price": 25829201
+      },
+      {
+        "month": "Mar",
+        "price": 26490763
+      },
+      {
+        "month": "Apr",
+        "price": 27002843
+      },
+      {
+        "month": "May",
+        "price": 26749793
+      },
+      {
+        "month": "Jun",
+        "price": 29640000
+      }
+    ],
+    "score": {
+      "overall": 63,
+      "price": 47,
+      "location": 67,
+      "size": 96,
+      "amenities": 50
+    }
+  },
+  {
+    "id": "prop-048",
+    "title": "Contemporary 5 Bedroom Residence",
+    "description": "A elegant 5-bedroom house located in Mirpur, offering 2023 sqft of living space with 3 premium amenities nearby.",
+    "type": "House",
+    "price": 132000,
+    "priceType": "rent",
+    "location": {
+      "area": "Mirpur",
+      "city": "Dhaka",
+      "lat": 23.824844,
+      "lng": 90.358419
+    },
+    "size": 2023,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "CCTV",
+      "Playground",
+      "Swimming Pool"
+    ],
+    "rating": 4.0,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 112936
+      },
+      {
+        "month": "Feb",
+        "price": 112622
+      },
+      {
+        "month": "Mar",
+        "price": 114726
+      },
+      {
+        "month": "Apr",
+        "price": 119159
+      },
+      {
+        "month": "May",
+        "price": 117422
+      },
+      {
+        "month": "Jun",
+        "price": 132000
+      }
+    ],
+    "score": {
+      "overall": 54,
+      "price": 40,
+      "location": 62,
+      "size": 89,
+      "amenities": 30
+    }
+  },
+  {
+    "id": "prop-049",
+    "title": "Modern 5 Bedroom Flat",
+    "description": "A premium 5-bedroom house located in Mirpur, offering 2542 sqft of living space with 6 premium amenities nearby.",
+    "type": "House",
+    "price": 170000,
+    "priceType": "rent",
+    "location": {
+      "area": "Mirpur",
+      "city": "Dhaka",
+      "lat": 23.823733,
+      "lng": 90.359165
+    },
+    "size": 2542,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Community Hall",
+      "Generator",
+      "Parking",
+      "Gym",
+      "CCTV",
+      "Playground"
+    ],
+    "rating": 5.0,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 155954
+      },
+      {
+        "month": "Feb",
+        "price": 156240
+      },
+      {
+        "month": "Mar",
+        "price": 161720
+      },
+      {
+        "month": "Apr",
+        "price": 162245
+      },
+      {
+        "month": "May",
+        "price": 166539
+      },
+      {
+        "month": "Jun",
+        "price": 170000
+      }
+    ],
+    "score": {
+      "overall": 64,
+      "price": 40,
+      "location": 67,
+      "size": 99,
+      "amenities": 60
+    }
+  },
+  {
+    "id": "prop-050",
+    "title": "Luxury 3 Bedroom House",
+    "description": "A charming 3-bedroom apartment located in Mirpur, offering 2050 sqft of living space with 4 premium amenities nearby.",
+    "type": "Apartment",
+    "price": 19810000,
+    "priceType": "sale",
+    "location": {
+      "area": "Mirpur",
+      "city": "Dhaka",
+      "lat": 23.825868,
+      "lng": 90.361083
+    },
+    "size": 2050,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
+    ],
+    "amenities": [
+      "Security",
+      "Elevator",
+      "Generator",
+      "CCTV"
+    ],
+    "rating": 4.4,
+    "priceHistory": [
+      {
+        "month": "Jan",
+        "price": 17273529
+      },
+      {
+        "month": "Feb",
+        "price": 17656480
+      },
+      {
+        "month": "Mar",
+        "price": 18306707
+      },
+      {
+        "month": "Apr",
+        "price": 19035860
+      },
+      {
+        "month": "May",
+        "price": 19697297
+      },
+      {
+        "month": "Jun",
+        "price": 19810000
+      }
+    ],
+    "score": {
+      "overall": 64,
+      "price": 62,
+      "location": 66,
+      "size": 89,
+      "amenities": 40
+    }
+  }
+]
