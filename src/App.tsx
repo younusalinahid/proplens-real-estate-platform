@@ -3,6 +3,7 @@ import {Routes, Route} from "react-router-dom";
 import DiscoveryPage from "./features/DiscoveryPage.tsx";
 import Navbar from "./components/Navbar.tsx";
 import Hero from "./components/Hero.tsx";
+import PropertyDetailPage from "./features/property-detail/PropertyDetailsPage.tsx";
 
 function App() {
     return (
@@ -11,7 +12,7 @@ function App() {
             <Routes>
                 <Route path="/" element={<Hero />}/>
                 <Route path="/properties" element={<DiscoveryPage/>}/>
-                <Route path="/property/:id" element={<div>Property Detail page</div>}/>
+                <Route path="/property/:id" element={<PropertyDetailPage />}/>
                 <Route path="/compare" element={<div>Compare page</div>}/>
                 <Route path="/insights" element={<div>Market Insights page</div>}/>
             </Routes>
