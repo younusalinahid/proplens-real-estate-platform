@@ -46,10 +46,12 @@ export interface Property {
 }
 
 export interface FilterState {
+    search?: string;
     area?: string;
     type?: PropertyType;
     priceType?: PriceType;
     minPrice?: number;
+    maxPrice?: number;
     minBedrooms?: number;
     minSize?: number;
 }
