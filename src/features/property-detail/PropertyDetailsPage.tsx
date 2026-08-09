@@ -1,6 +1,7 @@
 import type {Property} from "../../types/property.ts";
 import propertiesData from "../../data/properties.json"
 import {Link, useParams} from "react-router-dom";
+import {Line, LineChart, ResponsiveContainer, Tooltip, XAxis} from "recharts";
 
 const properties = propertiesData as Property[];
 
@@ -70,16 +71,32 @@ function PropertiesDetailsPage() {
                                 {property.score.overall}
                             </span>
                         </div>
+                        <ScoreBar label="Price" value={property.score.price}/>
+                        <ScoreBar label="Price" value={property.score.location}/>
+                        <ScoreBar label="Price" value={property.score.size}/>
+                        <ScoreBar label="Price" value={property.score.amenities}/>
                     </div>
-                    <ScoreBar label="Price" value={property.score.price} />
-                    <ScoreBar label="Price" value={property.score.location} />
-                    <ScoreBar label="Price" value={property.score.size} />
-                    <ScoreBar label="Price" value={property.score.amenities} />
-
                 </div>
             </div>
+
+            <div className="mt-10 border border-gray-200 rounded-lg p-4">
+                <h3 className="font-semibold mb-4">Price trend (6 months)</h3>
+                <ResponsiveContainer width="100%" height={250}>
+                    <LineChart data={property.priceHistory}>
+                        <XAxis/>
+                        <Tooltip/>
+                        <Line
+                            type="monotone"
+                            dataKey="price"
+                            stroke="#2563eb"
+                            strokeWidth={2}
+                        />
+                    </LineChart>
+                </ResponsiveContainer>
+            </div>
         </div>
-    )
+
+    );
 }
 
 export default PropertiesDetailsPage;
