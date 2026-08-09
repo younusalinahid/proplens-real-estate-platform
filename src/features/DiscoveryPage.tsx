@@ -1,9 +1,10 @@
-import {useMemo} from "react";
+import {useMemo, useState} from "react";
 import {useSearchParams} from "react-router-dom";
 import propertiesData from "./../data/properties.json";
 import type {FilterState, Property} from "./../types/property";
 import FilterPanel from "./../components/FilterPanel";
 import PropertyCard from "../components/PropertyCard.tsx";
+import PropertyMap from "../components/PropertyMap.tsx";
 
 const properties = propertiesData as Property[];
 
@@ -26,6 +27,7 @@ function filterProperties(items: Property[], filters: FilterState): Property[] {
 
 function DiscoveryPage() {
     const [searchParams, setSearchParams] = useSearchParams();
+    const [selectedId, setSelectedId] = useState<string | null>(null);
 
     const filters: FilterState = {
         search: searchParams.get("search") ?? undefined,
@@ -73,11 +75,23 @@ function DiscoveryPage() {
                     No properties match your filters.
                 </p>
             ) : (
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-                    {filtered.map((property) => (
-                        <PropertyCard key={property.id} property={property}/>
-                    ))}
-                </div>
+                <>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+                        {filtered.map((property) => (
+                            <div
+                                key={property.id}
+                                onMouseEnter={() => setSelectedId(property.id)}
+                            >
+                                <PropertyCard property={property}/>
+                            </div>
+                        ))}
+                    </div>
+
+                    <div className="mt-8">
+                        <h2 className="font-semibold mb-3">Map view</h2>
+                        <PropertyMap properties={filtered} selectedId={selectedId}/>
+                    </div>
+                </>
             )}
         </div>
     );
