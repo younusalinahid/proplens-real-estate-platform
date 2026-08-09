@@ -4,6 +4,7 @@ import DiscoveryPage from "./features/DiscoveryPage.tsx";
 import Navbar from "./components/Navbar.tsx";
 import Hero from "./components/Hero.tsx";
 import PropertyDetailPage from "./features/property-detail/PropertyDetailsPage.tsx";
+import Footer from "./components/Footer.tsx";
 
 function App() {
     return (
@@ -16,6 +17,7 @@ function App() {
                 <Route path="/compare" element={<div>Compare page</div>}/>
                 <Route path="/insights" element={<div>Market Insights page</div>}/>
             </Routes>
+            <Footer />
         </>
     );
 }
