@@ -1,10 +1,11 @@
-import {useMemo, useState} from "react";
+import {useEffect, useMemo, useState} from "react";
 import {useSearchParams} from "react-router-dom";
 import propertiesData from "./../data/properties.json";
 import type {FilterState, Property} from "./../types/property";
 import FilterPanel from "./../components/FilterPanel";
 import PropertyCard from "../components/PropertyCard.tsx";
 import PropertyMap from "../components/PropertyMap.tsx";
+import PropertyCardSkeleton from "../components/PropertyCardSkeleton.tsx";
 
 const properties = propertiesData as Property[];
 
@@ -28,6 +29,13 @@ function filterProperties(items: Property[], filters: FilterState): Property[] {
 function DiscoveryPage() {
     const [searchParams, setSearchParams] = useSearchParams();
     const [selectedId, setSelectedId] = useState<string | null>(null);
+    const [isLoading, setIsLoading] = useState(true);
+
+    useEffect(() => {
+        setIsLoading(true);
+        const timer = setTimeout(() => setIsLoading(false), 600);
+        return () => clearTimeout(timer);
+    }, [searchParams]);
 
     const filters: FilterState = {
         search: searchParams.get("search") ?? undefined,
@@ -70,7 +78,13 @@ function DiscoveryPage() {
                 {filtered.length} properties found
             </p>
 
-            {filtered.length === 0 ? (
+            {isLoading ? (
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+                    {Array.from({length: 8}).map((_, i) => (
+                        <PropertyCardSkeleton key={i}/>
+                    ))}
+                </div>
+            ) : filtered.length === 0 ? (
                 <p className="text-gray-500 py-12 text-center">
                     No properties match your filters.
                 </p>
