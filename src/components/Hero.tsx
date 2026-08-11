@@ -4,7 +4,7 @@ import FeaturedProperties from "./FeaturedProperties.tsx";
 function Hero() {
     return (
         <>
-            <section className="text-center py-20 px-6 bg-gray-50">
+            <section className="text-center py-20 px-6 bg-gray-50 dark:bg-gray-800">
                 <h1 className="text-4xl font-bold mb-4">
                     Find your next property with confidence
                 </h1>
