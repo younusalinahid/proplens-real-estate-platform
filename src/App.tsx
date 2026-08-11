@@ -5,6 +5,7 @@ import Hero from "./components/Hero.tsx";
 import PropertyDetailPage from "./features/property-detail/PropertyDetailsPage.tsx";
 import Footer from "./components/Footer.tsx";
 import ComparePage from "./features/ComparePage.tsx";
+import InsightsPage from "./features/InsightsPage.tsx";
 
 function App() {
     return (
@@ -15,7 +16,7 @@ function App() {
                 <Route path="/properties" element={<DiscoveryPage/>}/>
                 <Route path="/property/:id" element={<PropertyDetailPage />}/>
                 <Route path="/compare" element={<ComparePage/>}/>
-                <Route path="/insights" element={<div>Market Insights page</div>}/>
+                <Route path="/insights" element={<InsightsPage />}/>
             </Routes>
             <Footer />
         </>
