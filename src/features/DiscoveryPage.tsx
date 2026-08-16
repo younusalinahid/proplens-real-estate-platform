@@ -1,11 +1,10 @@
-import {useEffect, useMemo, useState} from "react";
+import {useMemo, useState} from "react";
 import {useSearchParams} from "react-router-dom";
 import propertiesData from "./../data/properties.json";
 import type {FilterState, Property} from "./../types/property";
 import FilterPanel from "./../components/FilterPanel";
 import PropertyCard from "../components/PropertyCard.tsx";
 import PropertyMap from "../components/PropertyMap.tsx";
-import PropertyCardSkeleton from "../components/PropertyCardSkeleton.tsx";
 
 const properties = propertiesData as Property[];
 
@@ -29,13 +28,6 @@ function filterProperties(items: Property[], filters: FilterState): Property[] {
 function DiscoveryPage() {
     const [searchParams, setSearchParams] = useSearchParams();
     const [selectedId, setSelectedId] = useState<string | null>(null);
-    const [isLoading, setIsLoading] = useState(true);
-
-    useEffect(() => {
-        setIsLoading(true);
-        const timer = setTimeout(() => setIsLoading(false), 600);
-        return () => clearTimeout(timer);
-    }, [searchParams]);
 
     const filters: FilterState = {
         search: searchParams.get("search") ?? undefined,
@@ -70,22 +62,16 @@ function DiscoveryPage() {
 
     return (
         <div className="max-w-7xl mx-auto p-6">
-            <h1 className="text-2xl font-bold mb-4">Find your next property</h1>
+            <h1 className="text-2xl font-bold mb-4 dark:text-white">Find your next property</h1>
 
             <FilterPanel filters={filters} onChange={handleFilterChange}/>
 
-            <p className="text-sm text-gray-500 mt-4 mb-3">
+            <p className="text-sm text-gray-500 dark:text-gray-400 mt-4 mb-3">
                 {filtered.length} properties found
             </p>
 
-            {isLoading ? (
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-                    {Array.from({length: 8}).map((_, i) => (
-                        <PropertyCardSkeleton key={i}/>
-                    ))}
-                </div>
-            ) : filtered.length === 0 ? (
-                <p className="text-gray-500 py-12 text-center">
+            {filtered.length === 0 ? (
+                <p className="text-gray-500 dark:text-gray-400 py-12 text-center">
                     No properties match your filters.
                 </p>
             ) : (
@@ -102,7 +88,7 @@ function DiscoveryPage() {
                     </div>
 
                     <div className="mt-8">
-                        <h2 className="font-semibold mb-3">Map view</h2>
+                        <h2 className="font-semibold mb-3 dark:text-white">Map view</h2>
                         <PropertyMap properties={filtered} selectedId={selectedId}/>
                     </div>
                 </>

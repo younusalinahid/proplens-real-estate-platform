@@ -8,7 +8,7 @@ function Hero() {
                 <h1 className="text-4xl font-bold mb-4">
                     Find your next property with confidence
                 </h1>
-                <p className="text-gray-600 mb-6 max-w-xl mx-auto">
+                <p className="text-gray-600 dark:text-gray-300 mb-6 max-w-xl mx-auto">
                     Explore listings, compare options, and understand the market before you decide.
                 </p>
                 <Link to="/properties"
